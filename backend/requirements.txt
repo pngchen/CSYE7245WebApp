@@ -1,0 +1,14 @@
+# backend/requirements.txt
+
+fastapi
+numpy
+opencv-python
+pillow
+python-multipart
+uvicorn
+gcsfs
+tensorflow
+matplotlib
+pandas
+keras
+flask
